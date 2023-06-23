@@ -1,0 +1,17 @@
+main {
+  height: 100vh;
+  background-color: #6305a1;
+}
+
+header {
+  height: 56px;
+  box-shadow: 0px 1px 5px rgba(0,0,0,0.3);
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.notificationIcon {
+  cursor: pointer;
+}
