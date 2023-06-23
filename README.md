@@ -2,7 +2,7 @@
 
 Server Sent Events(SSE) Proof of concept using Node.js and React
 
-![](https://raw.githubusercontent.com/antonioribdev/sse-poc/master/notifications-screen.png)
+![](https://raw.githubusercontent.com/AntonioRDev/sse-poc/main/notifications-screen.png)
 
 ## How to use
 
